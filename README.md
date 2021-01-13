@@ -1,4 +1,4 @@
-# SummaryOfBooksRead2020-2021
+# SummaryOfBooksRead2020-2021 
 
 # 技術関連書籍
  - ゼロから作るDeepLearning②（自然言語処理編）【斎藤 康毅（さいとうやすたけ）（2018）】
